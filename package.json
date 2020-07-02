@@ -20,5 +20,8 @@
   "homepage": "https://github.com/ivanszhuravlev/redux-codegen#readme",
   "devDependencies": {
     "typescript": "^3.9.6"
+  },
+  "dependencies": {
+    "react-redux": "^7.2.0"
   }
 }
